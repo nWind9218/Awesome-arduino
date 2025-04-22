@@ -29,11 +29,12 @@ And each project comes with:
 
 | Project | Description | Level |
 |--------|-------------|-------|
-| 🔊 **Morse Code Buzzer** | Translate text to Morse and beep it out loud | 🟢 Beginner |
-| 🌡️ **Temp-o-Tron 3000** | A stylish temperature monitor with RGB alerts | 🟡 Intermediate |
-| 🤖 **Obstacle Avoiding Car** | A mini autonomous rover with sensors and attitude | 🔴 Advanced |
-| 🎶 **Beat Sync LED Wall** | Light up your room to your music’s vibe | 🟠 Intermediate |
-| 🧠 **Brainy Timer Box** | A puzzle-timer for productivity warriors | 🟡 Intermediate |
+|💡  **Light** | All ideas comming with LEDs | 🟢 Beginner | In practice|
+| 🔊 **Morse Code Buzzer** | Translate text to Morse and beep it out loud | 🟢 Beginner | Comming soon|
+| 🌡️ **Temp-o-Tron 3000** | A stylish temperature monitor with RGB alerts | 🟡 Intermediate | Comming soon|
+| 🤖 **Obstacle Avoiding Car** | A mini autonomous rover with sensors and attitude | 🔴 Advanced | Comming soon |
+| 🎶 **Beat Sync LED Wall** | Light up your room to your music’s vibe | 🟠 Intermediate | Comming soon|
+| 🧠 **Brainy Timer Box** | A puzzle-timer for productivity warriors | 🟡 Intermediate | Comming soon|
 
 _(More coming soon... I’m always building!)_
 
