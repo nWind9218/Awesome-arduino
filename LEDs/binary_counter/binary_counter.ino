@@ -3,6 +3,16 @@
 //Level 2: Medium || Try to represent 0 -> 15 with 4 lights and 1 Counter UP
 //Level 3: Hard || Try to represent 0 -> 15 with 4 lights and 2 Counter UP, DOWN
 
+// Components:
+/*
+- Arduino UNO
+- 2 Button
+- 4 LEDs
+- 4 Resistors 220V -> up
+- Breadboard
+- Wires
+*/
+
 //Fields
 
 const int ledPins[4] = {13,12,11,10};
